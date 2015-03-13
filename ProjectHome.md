@@ -1,0 +1,1 @@
+popup on logbook is pop-up manager to load web dinamically with cookie detect.
